@@ -1,3 +1,4 @@
 push test head!! #developで修正
 push test!
 push Footer★★★！！ #feature_check_conflictで修正！
+git developの修正！
